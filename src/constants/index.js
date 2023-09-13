@@ -156,39 +156,43 @@ import {
     {
       name: "3-D portfolio ",
       description:
-        "My very own 3-D portfolio that displays all my  which some are shown in 3-D animated, demonstrating a solid foundation of basic 3d modeling skills ",
+        "Welcome to my unique 3D portfolio, where I showcase my creative works in a visually stunning and immersive way. With a focus on 3D animations, this portfolio brings my projects to life, allowing viewers to explore and engage with my creations in a whole new dimension. From eye-catching graphics to interactive 3D models, my portfolio demonstrates a solid foundation of artistic and technical skills. Whether you're an art enthusiast, a potential client, or simply curious, this portfolio offers a captivating journey through my diverse body of work. ",
       tags: [
         {
-          name: "react",
+          name: "ThreeJS ",
           color: "blue-text-gradient",
         },
         {
-          name: "node",
+          name: "React Three Fiber",
           color: "green-text-gradient",
         },
         {
-          name: "chatengine.io",
+          name: "TailwindCSS",
           color: "pink-text-gradient",
+        },
+        {
+          name: "Framer Motion",
+          color: "green-text-gradient",
         },
       ],
       image: threedp,
-      source_code_link: "https://github.com/Ayushkarki1/chatapp/tree/main",
+      source_code_link: "https://github.com/Ayushkarki1/3d_portfolio",
     },
     {
       name: "full stack Chatting web app ",
       description:
-        "full stack Chatting web app using Node JS, React JS and ChatEngine.io- an app where u can invite a friend and have a chat, upload files and create group chats.",
+        "Welcome to our full-stack chatting web app, powered by Node.js, React.js, and ChatEngine.io. Our platform makes connecting with friends and colleagues easier than ever. Whether you want to have a one-on-one chat, share files, or create group conversations, our user-friendly interface has you covered. With the ability to invite friends and colleagues, you can stay connected with your social and professional networks effortlessly.",
       tags: [
         {
-          name: "react",
+          name: "JavaScript",
           color: "blue-text-gradient",
         },
         {
-          name: "node",
-          color: "green-text-gradient",
+          name: "HTML",
+          color: "orange-text-gradient",
         },
         {
-          name: "chatengine.io",
+          name: "CSS",
           color: "pink-text-gradient",
         },
       ],
@@ -198,20 +202,29 @@ import {
     {
       name: "3-D T-shirt Customizer",
       description:
-        "A 3-d model t shirst which allows you to view the t shirt in 360 angle. Also user can set the color and upload logo/designs they wish",
+      "Experience the future of online T-shirt customization with my cutting-edge 3D model T-shirt customizer. This innovative platform empowers users to interact with T-shirts in a whole new dimension, allowing a 360-degree view of the garment. Beyond the immersive viewing experience, users have the freedom to unleash their creativity by customizing T-shirt colors and uploading their own logos or designs",
       tags: [
         {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
+          name: "ThreeJS ",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "React Three Fibe",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "TailwindCSS ",
           color: "pink-text-gradient",
         },
+        {
+          name: "Framer Motion ",
+          color: "red-text-gradient",
+        },
+        {
+          name: "JavaScript",
+          color: "blue-text-gradient",
+        },
+        
       ],
       image: tshirt,
       source_code_link: "https://github.com/Ayushkarki1/threejs",
@@ -235,12 +248,12 @@ import {
         },
       ],
       image: LoginandRegistrationwebapp,
-      source_code_link: "https://github.com/Ayushkarki1/threejs",
+      source_code_link: "https://github.com/Ayushkarki1/",
     },
     {
       name: "Profemon",
       description:
-        "",
+        "In the world of Profémon, trainers are always busy training their beloved profémons for the battles to come. They are looking to challenge departments to a profémon battle and gain a degree. Departments are trainers who specialize in a single type of profémon. ",
       tags: [
         {
           name: "c++",
@@ -254,7 +267,7 @@ import {
     {
       name: "Hangman",
       description:
-        ".",
+        "Hangman is a guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters within a certain number of guesses. Originally a Paper-and-pencil game, there are now electronic versions",
       tags: [
         {
           name: "c++",
@@ -268,18 +281,18 @@ import {
     {
       name: "Password/Passcode generator",
       description:
-        "user can generate unique password/passcode depending on their preference",
+        "This Password/Passcode Generator is a software tool or algorithm designed to create secure and unique passwords or passcodes for various applications, such as user accounts, online services, computer systems, or mobile devices. The primary purpose of this password/passcode generator is to enhance security by generating complex and difficult-to-guess combinations of characters, numbers, and symbols. ",
       tags: [
         {
-          name: "react",
+          name: "JavaScript",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
-          color: "green-text-gradient",
+          name: "HTML",
+          color: "orange-text-gradient",
         },
         {
-          name: "scss",
+          name: "CSS",
           color: "pink-text-gradient",
         },
       ],
@@ -289,19 +302,19 @@ import {
     {
       name: "Weather web app",
       description:
-        "displays weather of any location typed in by the user with the help of weatherapi",
+        "This weather app offers users a convenient way to access up-to-date weather information for any location they choose. With a user-friendly interface, it allows users to simply type in their desired location, and the app leverages the power of WeatherAPI to provide accurate and real-time weather data. ",
       tags: [
         {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
+          name: "JavaScript",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "CSS",
           color: "pink-text-gradient",
+        },
+        {
+          name: "HTML",
+          color: "orange-text-gradient",
         },
       ],
       image: Weatherapp,
@@ -310,23 +323,16 @@ import {
     {
       name: "Unbeatable TicTacToe",
       description:
-        "play a game of TicTacToe against an ai but odds are you wont win",
+        "Challenge yourself in a classic game of TicTacToe against my formidable AI opponent. While the rules are simple, winning is not - my AI is designed to provide a challenging and engaging experience that will put your strategic skills to the test. Whether you're a beginner or an experienced player, you'll find the game offers a fun and immersive way to pass the time. With a sleek and intuitive interface, you can easily make your moves and compete for victory. But be warned, the odds are stacked against you, making each win a true accomplishment.",
       tags: [
         {
-          name: "nextjs",
-          color: "blue-text-gradient",
+          name: "HTML",
+          color: "orange-text-gradient",
         },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
+        
       ],
       image: tictactoee,
-      source_code_link: "https://github.com/Ayushkarki1/Weather-App",
+      source_code_link: "https://github.com/Ayushkarki1/tictactoe",
     },
     {
       name: "2-D car game",
@@ -334,7 +340,7 @@ import {
         "",
       tags: [
         {
-          name: "python",
+          name: "Python",
           color: "blue-text-gradient",
         },
         
